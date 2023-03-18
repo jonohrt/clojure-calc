@@ -1,1 +1,5 @@
 .clj-kondo
+node_modules/
+resources/public/assets/js
+.shadow-cljs
+.cpcache
